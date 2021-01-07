@@ -1,0 +1,4 @@
+hp
+smi
+sma
+test

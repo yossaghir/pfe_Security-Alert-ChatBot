@@ -1,0 +1,4 @@
+sudo -i
+alter
+mkdir
+rm -r

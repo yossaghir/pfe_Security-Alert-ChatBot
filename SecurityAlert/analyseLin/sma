@@ -1,0 +1,23 @@
+alter
+exit
+alter
+exit
+su smi
+exit
+alter
+sudo -i
+alter
+sudo -i
+exit
+alter
+cd
+mkdir test
+alter
+ps -Awu
+ps -awu
+ps -a
+kill -9 15670
+sudo kill -9 15670
+exit
+su sma
+exit
